@@ -1,0 +1,17 @@
+- [首页](README.md)
+- QQ 机器人
+  - [qq-ai-bot](qqbot/qq-ai-bot.md)
+  - [二次开发整合包](qqbot/junjian-devkit.md)
+  - [融合前备份](qqbot/junjian-backup.md)
+  - [NapCat 部署](qqbot/napcat.md)
+- 客户端与 UI
+  - [UI 交接（完整）](ui/junjian-ui-handoff.md)
+  - [UI 交接（精简）](ui/junjian-ui-handoff-lite.md)
+- 本地服务与工具
+  - [Antigravity API](tools/antigravity-api.md)
+  - [Codex 线路修复](tools/codex-fix.md)
+  - [微信自动回复](tools/wechat-autoreply.md)
+  - [课表提醒面板](tools/timetable-reminder.md)
+- 方案存档
+  - [仙剑商店](archive/xianjian-shop.md)
+  - [Claude 记忆库](archive/claude-memory.md)
